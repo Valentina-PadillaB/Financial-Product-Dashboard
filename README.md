@@ -29,8 +29,8 @@ El dashboard incluye las siguientes visualizaciones:
 
 ![Mapa de Ventas](images/Mapa.jpeg)
 ![Grid de Imágenes](images/ImagenProducto.png.jpeg)
-![Gráfico de Columnas Apiladas](imagines/GraáficoFacturacións.jpeg)
-![Tabla de Facturación](images/GráficoFacturación.png.jpeg)
+![Gráfico de Columnas Apiladas](images/GráficoFacturación.png.jpeg)
+![Tabla de Facturación](images/TablaFacturación.png.jpeg)
 ![Tarjetas Informativas](images/TarjetasInformativas.png.jpeg)
 
 ## Instrucciones para Usar
