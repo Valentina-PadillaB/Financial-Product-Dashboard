@@ -28,10 +28,10 @@ El dashboard incluye las siguientes visualizaciones:
 ## Capturas de Pantalla
 
 ![Mapa de Ventas](images/Mapa.jpeg)
-![Grid de Imágenes](ruta/a/tu/captura_grid.png)
-![Gráfico de Columnas Apiladas](ruta/a/tu/captura_columnas.png)
-![Tabla de Facturación](ruta/a/tu/captura_tabla.png)
-![Tarjetas Informativas](ruta/a/tu/captura_tarjetas.png)
+![Grid de Imágenes](imagines/ImagenProducto.jpeg)
+![Gráfico de Columnas Apiladas](imagines/GraáficoFacturacións.jpeg)
+![Tabla de Facturación](imagines/TablaFacturación.jpeg)
+![Tarjetas Informativas](imagines/TarjetasInformativas.jpeg)
 
 ## Instrucciones para Usar
 
