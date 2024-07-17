@@ -26,12 +26,31 @@ El dashboard incluye las siguientes visualizaciones:
   - Comisión Total
 
 ## Capturas de Pantalla
+### Grid de Imágenes
+Visualización de los 8 productos disponibles con imágenes representativas, facilitando la identificación de cada producto.
+
+![Grid de Imágenes](images/ImagenProducto.png.jpeg)
+
+### Tarjetas Informativas
+Visualización de la facturación total, el total de pedidos y la comisión total, proporcionando un resumen rápido de los indicadores clave de desempeño.
+
+![Tarjetas Informativas](images/TarjetasInformativas.png.jpeg)
+
+### Gráfico de Mapa
+Muestra la ubicación de varias ciudades de Brasil y la facturación por cada producto en dichas ciudades.
 
 ![Mapa de Ventas](images/Mapa.jpeg)
-![Grid de Imágenes](images/ImagenProducto.png.jpeg)
+
+### Gráfico de Columnas Apiladas
+Visualiza la facturación por periodo mensual, permitiendo un análisis detallado de las ventas a lo largo del tiempo.
+
 ![Gráfico de Columnas Apiladas](images/GráficoFacturación.png.jpeg)
+
+### Tabla de Facturación
+Muestra las tiendas disponibles con su facturación individual y el porcentaje de facturación que representa cada tienda.
+
 ![Tabla de Facturación](images/TablaFacturación.png.jpeg)
-![Tarjetas Informativas](images/TarjetasInformativas.png.jpeg)
+
 
 ## Instrucciones para Usar
 
