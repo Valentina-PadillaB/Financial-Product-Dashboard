@@ -25,7 +25,6 @@ El dashboard incluye las siguientes visualizaciones:
   - Total de Pedidos
   - Comisión Total
 
-## Capturas de Pantalla
 ### Grid de Imágenes
 Visualización de los 8 productos disponibles con imágenes representativas, facilitando la identificación de cada producto.
 
